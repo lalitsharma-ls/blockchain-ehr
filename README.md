@@ -4,11 +4,11 @@ electronic health record using blockhain
 
 **Technologies used
 
-*node.js and express.js as backend 
-*jquery for frontend
-*ejs as templating engine
-*sql for centralized data storage
-*ethereum for decentralized storage
+node.js and express.js as backend 
+jquery for frontend
+ejs as templating engine
+sql for centralized data storage
+ethereum for decentralized storage
 
 
 **project architecture
@@ -18,7 +18,7 @@ In this project i am using both centralization and decentralization.i am storing
 
 **included files
 
-*complete backend + frontend
-*smart contract
-*abi
-*sql database
+complete backend + frontend
+smart contract
+abi
+sql database
